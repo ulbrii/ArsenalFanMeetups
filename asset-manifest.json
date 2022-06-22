@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ArsenalFanMeetups/static/css/main.360d0c15.css",
-    "main.js": "/ArsenalFanMeetups/static/js/main.2a2c2717.js",
+    "main.js": "/ArsenalFanMeetups/static/js/main.faf72859.js",
     "index.html": "/ArsenalFanMeetups/index.html",
     "main.360d0c15.css.map": "/ArsenalFanMeetups/static/css/main.360d0c15.css.map",
-    "main.2a2c2717.js.map": "/ArsenalFanMeetups/static/js/main.2a2c2717.js.map"
+    "main.faf72859.js.map": "/ArsenalFanMeetups/static/js/main.faf72859.js.map"
   },
   "entrypoints": [
     "static/css/main.360d0c15.css",
-    "static/js/main.2a2c2717.js"
+    "static/js/main.faf72859.js"
   ]
 }
