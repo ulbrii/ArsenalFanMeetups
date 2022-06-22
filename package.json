@@ -1,6 +1,6 @@
 {
   "homepage": "https://ulbrii.github.io/ArsenalFanMeetups",
-  "name": "react-app",
+  "name": "arsenal-fan-meetups",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
