@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ArsenalFanMeetups/static/css/main.360d0c15.css",
+    "main.js": "/ArsenalFanMeetups/static/js/main.6f941e9d.js",
+    "index.html": "/ArsenalFanMeetups/index.html",
+    "main.360d0c15.css.map": "/ArsenalFanMeetups/static/css/main.360d0c15.css.map",
+    "main.6f941e9d.js.map": "/ArsenalFanMeetups/static/js/main.6f941e9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.360d0c15.css",
+    "static/js/main.6f941e9d.js"
+  ]
+}
